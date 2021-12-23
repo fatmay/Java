@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-    public static void main(String args [])
+    public static void main(String[] args)
    {
         System.out.println("sayi giriniz:");//burada sayi sitedim
         Scanner cagir=new Scanner(System.in);//burada da scanner sınıfından nesne vasıtasıyla next fonk eriştim
